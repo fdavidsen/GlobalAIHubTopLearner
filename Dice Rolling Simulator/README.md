@@ -1,3 +1,3 @@
 # Dice Rolling Simulator
-![](img/opening.jpg)
-![](img/ongoing.jpg)
+![](img/opening.png)
+![](img/ongoing.png)
