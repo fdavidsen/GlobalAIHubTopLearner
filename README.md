@@ -12,6 +12,12 @@ Description...
 ## Requirements
 - 
 
+## Table of Contents
+Project Name | Description |
+|---|---|
+| [Dice Rolling Simulator](https://github.com/fdavidsen/GlobalAIHubTopLearner/tree/master/Dice%20Rolling%20Simulator) | A random number generator between 1 and 6, just like a standard dice. |
+
+
 ---
 
 ### Certification
