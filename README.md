@@ -1,4 +1,4 @@
-# GAIH Student Repo Example
+# Global AI Hub Top Learner
 ![](img/logo.png)
 
 **Course Date:** 04 Jan 2021 - 08 Jan 2021    
